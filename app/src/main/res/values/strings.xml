@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Picowalker</string>
+    <string name="settings">设置</string>
+    <string name="btn_l">L</string>
+    <string name="btn_r">R</string>
+    <string name="btn_m">M</string>
+    <string name="btn_l_desc">左键</string>
+    <string name="btn_r_desc">右键</string>
+    <string name="btn_m_desc">确认键</string>
+</resources>
